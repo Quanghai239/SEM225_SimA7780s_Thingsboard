@@ -12,10 +12,6 @@ Cảm biến SEM225.
 
 SimA7680s
 
-<img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/4a34f96f-73d7-4ecd-8b18-9a26bdc15e4a" /> 
-
-
-Đây hình ảnh sản phẩm thực tế đang được demo
 
 
 
