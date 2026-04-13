@@ -1,4 +1,4 @@
-Đây là 1 dự án thực tế dùng cảm biến SEM225 để đọc các thông số của đất cho các cánh đồng ở đồng bằng sông nước chuyên dùng cho nông nghiệp. Và để có thể truyền dữ liệu lên thingsboard liên tục mà ở ngoài đồng thì sử dụng sima7680s để truyền dữ liệu đo dược từ cảm biến SEM225.
+Đây là 1 dự án thực tế dùng cảm biến SEM225 để đọc các thông số của đất cho các cánh đồng ở đồng bằng sông nước chuyên dùng cho nông nghiệp. Và để có thể truyền dữ liệu lên thingsboard liên tục mà ở ngoài đồng thì sử dụng Sima7680s để truyền dữ liệu đo dược từ cảm biến SEM225. Và đây chỉ 1 phần trong dự án, chỉ mới là phần firmware. Nó còn những khâu như hardware, server, app. Về phần firmware sẽ nâng cấp và hoàn thiện trong thời gian tới.
 
 Dưới đây là 1 số hình ảnh minh họa về dự án:
 
