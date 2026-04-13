@@ -14,9 +14,9 @@
 // ================= USER CONFIG =================
 static const char* APN              = "";
 static const char* SIM_PIN          = nullptr;
-static const char* TB_HOST          = "nguyendinhdat.io.vn";
+static const char* TB_HOST          = "Your_HOST";
 static const uint16_t TB_PORT       = 1883;
-static const char* TB_DEVICE_TOKEN  = "GMwTEv4U420UMNRapGS0";
+static const char* TB_DEVICE_TOKEN  = "Your_Token";
 
 // Cấu hình chân Module SIM A7680S (UART2)
 static const int MODEM_RX_PIN = 22;
@@ -782,9 +782,9 @@ void loop() {
 // // ================= USER CONFIG =================
 // static const char* APN              = "";
 // static const char* SIM_PIN          = nullptr;
-// static const char* TB_HOST          = "nguyendinhdat.io.vn";
+// static const char* TB_HOST          = "Your_HOST";
 // static const uint16_t TB_PORT       = 1883;
-// static const char* TB_DEVICE_TOKEN  = "GMwTEv4U420UMNRapGS0";
+// static const char* TB_DEVICE_TOKEN  = "Your_Token";
 
 // // Cấu hình chân Module SIM A7680S (UART2)
 // static const int MODEM_RX_PIN = 22;
